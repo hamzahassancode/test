@@ -22,9 +22,10 @@ public class Circle2D {
         return d < (radius + other.getRadius());
     }
     public double getarea(double radius){
-        return Math.PI*radius*radius;
+        return Math.PI*5*radius;
     
     }
+
 
 
 }
